@@ -3,6 +3,7 @@
     
     body {
         /* text-align: center; */
+        overflow-x: hidden;
         width:768px;
         margin: 0 auto;
     }

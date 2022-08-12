@@ -2,7 +2,7 @@
 @media(max-width:500px){
     
     body {
-       
+        overflow-x: hidden;
         width:500px;
         margin: 0 auto;
     }
@@ -688,13 +688,13 @@
         grid-template-columns: auto;
     }
     img.project-01-i{
-        width: 207px;
+        width: 500px;
         height: 146px;
     }
     .type-cv{
         position: relative;
         bottom: 4px;
-        width: 207px;
+        width: 500px;
         border: 1px solid #e2e5e7;
         height: 43px;
     }
@@ -711,7 +711,7 @@
         border: 1px solid #e2e5e7;
         padding-right: 1px;
         display: flex;
-        width: 207px;
+        width: 500px;
         height: 40px;
         position: relative;
         bottom: 5px;
@@ -742,13 +742,13 @@
     }
     .table{
         position: relative;
-        width: 207px;
+        width: 500px;
         border: 1px solid #e2e5e7;
         bottom: 5px
     }
 
     table.cv{
-        width: 207px;
+        width: 500px;
         height: 180px
 
     }
@@ -763,11 +763,13 @@
     /* project 02 */
     .project-02{
         position: relative;
+        top:33px;
         left: 218px;
     }
     /* project 03 */
     .project-03{
         position: relative;
+        top :33px;
         left: 218px;
     }
     /* footer */

@@ -1,6 +1,7 @@
 
 body {
     /* text-align: center; */
+	overflow-x: hidden;
     width:1270px;
     margin: 0 auto;
 }
